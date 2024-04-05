@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aliza-Yaseen
-- 👀 I’m interested in Merk Development
+- 👀 I’m interested in Mern Development
 - 🌱 I’m currently learning Typescript and more languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
